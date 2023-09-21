@@ -1,0 +1,7 @@
+La  clasificacion de jugadores es la siguiente: 
+Jugador 1:erik tiene: 95 puntos,  tiene: 3 partidas ganadas,  tiene: 5 partidas perdidas y 1 partidas empatadas.
+Jugador 2:jose tiene: 15 puntos,  tiene: 2 partidas ganadas,  tiene: 3 partidas perdidas y 0 partidas empatadas.
+Jugador 3:carlos tiene: 200 puntos,  tiene: 2 partidas ganadas,  tiene: 0 partidas perdidas y 0 partidas empatadas.
+Jugador 4:jose2 tiene: 85 puntos,  tiene: 1 partidas ganadas,  tiene: 0 partidas perdidas y 1 partidas empatadas.
+Jugador 5:erik tiene: 100 puntos,  tiene: 0 partidas ganadas,  tiene: 0 partidas perdidas y 0 partidas empatadas.
+Jugador 6:2 tiene: 100 puntos,  tiene: 0 partidas ganadas,  tiene: 0 partidas perdidas y 0 partidas empatadas.
